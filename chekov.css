@@ -49,3 +49,8 @@ tbody tr:nth-child(odd) {
 thead {
     background-color: #ebd6d6;
 }
+
+.name:hover {
+    text-shadow: 2px 2px 5px #286414;
+    border: 1px dotted #FF0000;
+}
