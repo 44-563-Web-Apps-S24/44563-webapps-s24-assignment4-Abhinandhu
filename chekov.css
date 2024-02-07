@@ -54,3 +54,41 @@ thead {
     text-shadow: 2px 2px 5px #286414;
     border: 1px dotted #FF0000;
 }
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li {
+    float:left; 
+    color:#000;
+    background-color:skyblue
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:10px
+    }
+    ul.navbar-horizontal a:hover {
+    background-color: #555;
+    color:black;
+    }
+    /* ul.navbar-horizontal {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      
+      }
+      ul.navbar-horizontal li {
+        float:left;
+        color:#000;
+        background-color:aqua;
+      } 
+      ul.navbar-horizontal a {
+        display:block;
+        padding:8px
+      }
+      ul.navbar-horizontal a:hover {  
+        background-color:bisque;
+        color:white;
+      } */
