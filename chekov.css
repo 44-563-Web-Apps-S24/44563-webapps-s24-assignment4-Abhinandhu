@@ -73,22 +73,4 @@ ul.navbar-horizontal {
     background-color: #555;
     color:black;
     }
-    /* ul.navbar-horizontal {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-      
-      }
-      ul.navbar-horizontal li {
-        float:left;
-        color:#000;
-        background-color:aqua;
-      } 
-      ul.navbar-horizontal a {
-        display:block;
-        padding:8px
-      }
-      ul.navbar-horizontal a:hover {  
-        background-color:bisque;
-        color:white;
-      } */
+   
